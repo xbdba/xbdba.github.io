@@ -1,4 +1,3 @@
-https://xbdba.github.io/404.html
 https://xbdba.github.io/archives/index.html
 https://xbdba.github.io/2023/03/03/get-wskey/
 https://xbdba.github.io/2023/03/03/get-ck/
